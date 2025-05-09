@@ -25,9 +25,4 @@ The dataset used is the famous [Iris dataset](https://archive.ics.uci.edu/ml/dat
 - Matplotlib / Seaborn (for visualization)
 - scikit-learn (for model training)
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/iris-classification.git
-   cd iris-classification
